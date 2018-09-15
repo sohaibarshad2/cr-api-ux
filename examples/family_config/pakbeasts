@@ -1,0 +1,15 @@
+name: Pak Beasts
+key: Pakbeasts
+color: Green
+track:false
+emblem: A_Char_DarkPrince_01
+info:
+  logo: /static/img/brands/logo/pakbeasts.svg
+  description: >
+    Pak Beasts is fast growing clan in Pakistan had achieved manys boarderies to become competable with global clan.
+    Pak beasts wellcome All Cr members And Taycons to be a part of this Oraganization to find good players. Pak beasts found in 2016 by Hassan 
+  social:
+    - Facebook: thttp://www.facebook.com/groups/200163113948750/
+clans:
+  - name: Pak Beasts jr
+    tag: P9P9VYJL
